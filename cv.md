@@ -13,4 +13,10 @@ I would like to tell about myself: I am a  beginner front-end developer, I want 
 * Git
 * Work with Figma and AutoCad 
 ***
+##**Education**
+* Bachelor’s degree in progress since 2017 — Saint-Petersburg Mining University, Faculty of Energy, specialty heatpower engineering
+***
+##**Language skills**
+* English-B1
+* Russian-native
 
