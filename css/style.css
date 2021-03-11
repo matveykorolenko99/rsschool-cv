@@ -1,0 +1,71 @@
+       body {
+           background-color: rgb(139, 137, 153);
+       }
+       
+       .main {
+           display: flex;
+           margin: 50px 360px;
+           line-height: 1.20;
+       }
+       
+       .left-section {
+           font-family: fantasy;
+           display: flex;
+           flex-direction: column;
+           width: 40%;
+           background-color: rgb(173, 192, 189);
+           border: solid rgb(32, 25, 136)
+       }
+       
+       .skills {
+           text-align: center;
+       }
+       
+       .skills-list {
+           margin-top: -10px;
+       }
+       
+       .contact-title {
+           text-align: center;
+       }
+       
+       .contact-list {
+           margin-top: -10px;
+       }
+       
+       .right-section {
+           border-bottom: solid rgb(32, 25, 136);
+           border-right: solid rgb(32, 25, 136);
+           border-top: solid rgb(32, 25, 136);
+           font-family: cursive;
+           display: flex;
+           flex-direction: column;
+           width: 60%;
+           background-color: white;
+           justify-content: space-between;
+       }
+       
+       .right-section-title {
+           text-align: center;
+       }
+       
+       .main-img {
+           width: 100%;
+       }
+       
+       .contact-name {
+           text-align: center;
+           justify-content: space-between;
+       }
+       
+       .education {
+           text-align: center;
+       }
+       
+       .language-title {
+           text-align: center;
+       }
+       
+       .language {
+           margin-bottom: 80px;
+       }
